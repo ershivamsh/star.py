@@ -1,0 +1,6 @@
+t=input()
+x=len(t)
+print(t[0])
+print(t[x-1])
+print(t[0:3])
+print(t[x-3:x])
